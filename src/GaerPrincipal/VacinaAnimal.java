@@ -6,9 +6,13 @@ public class VacinaAnimal {
 
     public static void main(String[] args) {
        ValidaData validar = new ValidaData();
-       System.out.println(validar);
-        
-        
+       if (validar.equals(true))
+           System.out.println("Verdadeiro");
+    else 
+       System.out.println("Falso");
     }
-    
 }
+        
+    
+    
+
