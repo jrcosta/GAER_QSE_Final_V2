@@ -6,7 +6,6 @@ import javax.swing.JOptionPane;
 
         public static void main(String[] args) {
     
-            String data = JOptionPane.showInputDialog("Digite a Data:");
     
     
     
