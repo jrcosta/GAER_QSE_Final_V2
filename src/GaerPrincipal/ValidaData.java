@@ -20,5 +20,4 @@ public static boolean dataValida(String strDate) {
        return false;
             } 
         }
-   
 }
